@@ -12,6 +12,8 @@ set d_yaw = 0
 set f_yaw = 60
 set dshot_idle_value = 700
 
+set gyro_notch1_hz = 50
+set gyro_notch1_cutoff = 0
 
 set d_max_gain = 40
 set d_max_advance = 22
