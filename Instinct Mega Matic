@@ -2,20 +2,20 @@ set p_pitch = 50
 set i_pitch = 150
 set d_pitch = 45
 set d_min_pitch = 45
-set f_pitch = 60
+set f_pitch = 110
 set p_roll = 48
 set i_roll = 150
 set d_roll = 42
 set d_min_roll = 42
-set f_roll = 60
+set f_roll = 115
 set p_yaw = 80
 set i_yaw = 150
 set d_yaw = 0
-set f_yaw = 60
+set f_yaw = 120
 set dshot_idle_value = 700
 
-set d_max_gain = 45
-set d_max_advance = 35
+set d_max_gain = 46
+set d_max_advance = 36
 
 set motor_output_limit = 95
 
@@ -58,7 +58,7 @@ set gyro_lpf1_type = BIQUAD
 set deadband = 0
 set yaw_deadband = 1
 set rc_smoothing = ON
-set rc_smoothing_auto_factor = 130
+set rc_smoothing_auto_factor = 13
 
 set dyn_notch_count = 2
 set dyn_notch_q = 450
@@ -70,7 +70,7 @@ set gyro_lpf1_dyn_expo = 5
 
 set tpa_mode = PD
 set tpa_rate = 35
-set tpa_breakpoint = 1350
+set tpa_breakpoint = 1250
 
 set launch_control_gain = 40
 set thrust_linear = 25
