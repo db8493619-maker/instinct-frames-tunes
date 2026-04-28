@@ -53,7 +53,7 @@ set rpm_filter_q = 500
 set rpm_filter_min_hz = 50
 set rpm_filter_fade_range_hz = 50
 set rpm_filter_lpf_hz = 150
-set gyro_lpf1_type = BIQUAD
+set gyro_lpf1_type = PT1
 
 set deadband = 1
 set yaw_deadband = 1
