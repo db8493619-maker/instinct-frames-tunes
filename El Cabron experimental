@@ -70,7 +70,7 @@ set gyro_lpf1_dyn_expo = 5
 
 set tpa_mode = PD
 set tpa_rate = 30
-set tpa_breakpoint = 1350
+set tpa_breakpoint = 1650
 
 set launch_control_gain = 40
 set thrust_linear = 25
