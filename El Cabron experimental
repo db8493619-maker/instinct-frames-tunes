@@ -1,5 +1,5 @@
 set p_pitch = 50
-set i_pitch = 125
+set i_pitch = 120
 set d_pitch = 45
 set d_min_pitch = 45
 set f_pitch = 120
