@@ -2,17 +2,17 @@ set p_pitch = 50
 set i_pitch = 125
 set d_pitch = 45
 set d_min_pitch = 45
-set f_pitch = 110
+set f_pitch = 120
 set p_roll = 48
 set i_roll = 155
 set d_roll = 42
 set d_min_roll = 42
-set f_roll = 105
+set f_roll = 130
 set p_yaw = 80
 set i_yaw = 160
 set d_yaw = 0
-set f_yaw = 110
-set dshot_idle_value = 700
+set f_yaw = 130
+set dshot_idle_value = 720
 
 set d_max_gain = 49
 set d_max_advance = 38
@@ -56,7 +56,7 @@ set rpm_filter_lpf_hz = 150
 set gyro_lpf1_type = PT1
 
 set deadband = 1
-set yaw_deadband = 1
+set yaw_deadband = 2
 set rc_smoothing = ON
 set rc_smoothing_auto_factor = 80
 
