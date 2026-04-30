@@ -56,7 +56,7 @@ set rpm_filter_lpf_hz = 150
 set gyro_lpf1_type = PT1
 
 set deadband = 1
-set yaw_deadband = 2
+set yaw_deadband = 1
 set rc_smoothing = ON
 set rc_smoothing_auto_factor = 80
 
