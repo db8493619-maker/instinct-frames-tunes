@@ -7,12 +7,12 @@ set p_roll = 48
 set i_roll = 155
 set d_roll = 42
 set d_min_roll = 42
-set f_roll = 130
+set f_roll = 120
 set p_yaw = 80
 set i_yaw = 160
 set d_yaw = 0
-set f_yaw = 130
-set dshot_idle_value = 720
+set f_yaw = 110
+set dshot_idle_value = 750
 
 set d_max_gain = 49
 set d_max_advance = 38
