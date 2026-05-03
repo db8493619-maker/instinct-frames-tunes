@@ -59,6 +59,7 @@ set yaw_deadband = 1
 set rc_smoothing = ON
 set rc_smoothing_auto_factor = 130
 
+set gyro_lpf2_static_hz = 0
 set dyn_notch_count = 2
 set dyn_notch_q = 450
 set dyn_notch_min_hz = 60
