@@ -34,8 +34,8 @@ set yaw_lowpass_hz = 0
 set throttle_boost = 0
 set throttle_boost_cutoff = 25
 
-set dterm_lpf1_dyn_min_hz = 100
-set dterm_lpf1_dyn_max_hz = 200
+set dterm_lpf1_dyn_min_hz = 90
+set dterm_lpf1_dyn_max_hz = 180
 set dterm_lpf1_dyn_expo = 5
 set dterm_lpf1_type = PT1
 set dterm_lpf1_static_hz = 0
@@ -68,8 +68,8 @@ set gyro_lpf2_static_hz = 0
 set dyn_notch_count = 2
 set dyn_notch_q = 450
 set dyn_notch_min_hz = 60
-set gyro_lpf1_dyn_min_hz = 90
-set gyro_lpf1_dyn_max_hz = 180
+set gyro_lpf1_dyn_min_hz = 85
+set gyro_lpf1_dyn_max_hz = 200
 
 set tpa_mode = PD
 set tpa_rate = 30
