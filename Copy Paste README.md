@@ -1,5 +1,7 @@
 cli dumps for Instinct Frames preset style tunes
 
+simply copy paste the tune into cli on BF and press enter.
+
 Straya tune is cinematic freestyle
 
 Instinct Cibermatic tune is more responsive on the sticks and a little cleaner through throttle
