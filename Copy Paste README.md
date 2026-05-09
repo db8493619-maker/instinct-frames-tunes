@@ -6,7 +6,7 @@ Straya tune is cinematic freestyle
 
 Instinct Cibermatic tune is more responsive on the sticks and a little cleaner through throttle
 
-el gringo Canron is like a cinematic sbang proxy style
+el gringo's frame El Cabron Tune is like a cinematic sbang proxy style
 
 and the ferocious has high FF and generates alot of power to the motors, ferocious Pangangue had alot to do with this as i liked his aggressive sbnag style.
 
