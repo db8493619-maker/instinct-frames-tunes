@@ -1,17 +1,17 @@
 set profile_name = FeroPang
 
-set p_pitch = 59
+set p_pitch = 60
 set i_pitch = 150
-set d_pitch = 48
+set d_pitch = 34
 set p_roll = 57
 set i_roll = 150
-set d_roll = 45
-set p_yaw = 83
+set d_roll = 32
+set p_yaw = 75
 set i_yaw = 150
-set d_min_roll = 45
-set d_min_pitch = 48
-set d_max_gain = 49
-set d_max_advance = 38
+set d_min_roll = 32
+set d_min_pitch = 34
+set d_max_gain = 47
+set d_max_advance = 37
 set motor_output_limit = 95
 set thrust_linear = 25
 
@@ -20,13 +20,13 @@ set feedforward_averaging = 2_POINT
 set feedforward_smooth_factor = 65
 set feedforward_jitter_factor = 20
 set feedforward_boost = 23
-set feedforward_max_rate_limit = 94
+set feedforward_max_rate_limit = 100
 set deadband = 3
 set yaw_deadband = 4
 
-set dyn_idle_min_rpm = 30
+set dyn_idle_min_rpm = 37
 
-set dterm_lpf1_dyn_min_hz = 90
+set dterm_lpf1_dyn_min_hz = 100
 set dterm_lpf1_dyn_max_hz = 200
 set dterm_lpf1_static_hz = 0
 set dterm_lpf2_static_hz = 0
@@ -49,7 +49,7 @@ set simplified_gyro_filter = OFF
 set simplified_pids_mode = OFF
 set simplified_dterm_filter = OFF
 set tpa_mode = PD
-set tpa_rate = 25
+set tpa_rate = 40
 set tpa_breakpoint = 1650
 
 save
