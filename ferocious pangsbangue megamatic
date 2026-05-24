@@ -1,7 +1,7 @@
 set profile_name = FeroPang
 
 set p_pitch = 60
-set i_pitch = 150
+set i_pitch = 135
 set d_pitch = 34
 set p_roll = 57
 set i_roll = 150
