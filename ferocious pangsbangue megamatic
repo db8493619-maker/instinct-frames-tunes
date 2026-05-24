@@ -10,8 +10,8 @@ set p_yaw = 75
 set i_yaw = 150
 set d_min_roll = 32
 set d_min_pitch = 34
-set d_max_gain = 47
-set d_max_advance = 37
+set d_max_gain = 48
+set d_max_advance = 38
 set motor_output_limit = 95
 set thrust_linear = 25
 
@@ -49,7 +49,7 @@ set simplified_gyro_filter = OFF
 set simplified_pids_mode = OFF
 set simplified_dterm_filter = OFF
 set tpa_mode = PD
-set tpa_rate = 40
+set tpa_rate = 55
 set tpa_breakpoint = 1650
 
 save
