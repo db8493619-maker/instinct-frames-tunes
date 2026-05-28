@@ -12,7 +12,7 @@ set p_yaw = 80
 set i_yaw = 150
 set d_yaw = 0
 set f_yaw = 110
-set dshot_idle_value = 750
+set dshot_idle_value = 700
 
 set d_max_gain = 48
 set d_max_advance = 38
@@ -53,11 +53,11 @@ set rpm_filter_q = 500
 set rpm_filter_min_hz = 50
 set rpm_filter_fade_range_hz = 50
 set rpm_filter_lpf_hz = 150
-set gyro_lpf1_type = PT1
+set gyro_lpf1_type = BIQUAD
 set gyro_lpf2_static_hz = 0
 
-set deadband = 1
-set yaw_deadband = 1
+set deadband = 2
+set yaw_deadband = 3
 set rc_smoothing = ON
 set rc_smoothing_auto_factor = 80
 
