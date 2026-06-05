@@ -1,12 +1,12 @@
-set p_pitch = 45
+set p_pitch = 46
 set i_pitch = 125
-set d_pitch = 42
-set d_min_pitch = 42
+set d_pitch = 44
+set d_min_pitch = 44
 set f_pitch = 60
-set p_roll = 43
+set p_roll = 46
 set i_roll = 125
-set d_roll = 39
-set d_min_roll = 39
+set d_roll = 40
+set d_min_roll = 40
 set f_roll = 60
 set p_yaw = 75
 set i_yaw = 130
@@ -69,8 +69,8 @@ set gyro_lpf1_dyn_max_hz = 220
 set gyro_lpf1_dyn_expo = 5
 
 set tpa_mode = PD
-set tpa_rate = 30
-set tpa_breakpoint = 1250
+set tpa_rate = 45
+set tpa_breakpoint = 1450
 
 set launch_control_gain = 40
 set thr_expo = 30
