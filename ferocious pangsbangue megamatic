@@ -52,7 +52,7 @@ set simplified_gyro_filter = OFF
 set simplified_pids_mode = OFF
 set simplified_dterm_filter = OFF
 set tpa_mode = PD
-set tpa_rate = 65
-set tpa_breakpoint = 1650
+set tpa_rate = 45
+set tpa_breakpoint = 1550
 
 save
