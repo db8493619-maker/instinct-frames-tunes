@@ -1,20 +1,20 @@
 set profile_name = FeroPang
 
-set p_pitch = 57
-set i_pitch = 130
-set d_pitch = 38
+set p_pitch = 60
+set i_pitch = 135
+set d_pitch = 34
 set f_pitch = 120
-set p_roll = 53
-set i_roll = 150
+set p_roll = 57
+set i_roll = 140
 set d_roll = 32
 set f_roll = 120
 set p_yaw = 75
-set i_yaw = 150
+set i_yaw = 140
 set f_yaw = 120
 set d_min_roll = 32
 set d_min_pitch = 38
-set d_max_gain = 42
-set d_max_advance = 38
+set d_max_gain = 47
+set d_max_advance = 34
 set motor_output_limit = 95
 set thrust_linear = 25
 
@@ -31,6 +31,7 @@ set dyn_idle_min_rpm = 37
 
 set dterm_lpf1_dyn_min_hz = 100
 set dterm_lpf1_dyn_max_hz = 200
+set dterm_lpf1_type = BIQUAD
 set dterm_lpf1_static_hz = 0
 set dterm_lpf2_static_hz = 0
 set anti_gravity_gain = 10
@@ -38,6 +39,7 @@ set iterm_rotation = ON
 set iterm_relax_type = GYRO
 set iterm_relax_cutoff = 11
 set yaw_lowpass_hz = 0
+set throttle_boost = 4
 set throttle_boost_cutoff = 25
 
 set gyro_lpf1_static_hz = 0
