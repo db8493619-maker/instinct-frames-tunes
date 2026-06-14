@@ -1,7 +1,7 @@
 set p_pitch = 46
 set i_pitch = 110
-set d_pitch = 44
-set d_min_pitch = 44
+set d_pitch = 40
+set d_min_pitch = 40
 set f_pitch = 65
 set p_roll = 46
 set i_roll = 105
@@ -58,8 +58,8 @@ set rpm_filter_min_hz = 50
 set rpm_filter_fade_range_hz = 50
 set rpm_filter_lpf_hz = 150
 
-set deadband = 0
-set yaw_deadband = 1
+set deadband = 2
+set yaw_deadband = 3
 set rc_smoothing_auto_factor = 80
 
 set dyn_notch_max_hz = 600
@@ -73,7 +73,7 @@ set gyro_lpf1_dyn_max_hz = 220
 
 set tpa_mode = PD
 set tpa_rate = 45
-set tpa_breakpoint = 1450
+set tpa_breakpoint = 1550
 
 set launch_control_gain = 40
 set thrust_linear = 25
