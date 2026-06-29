@@ -67,6 +67,8 @@ set dyn_notch_max_hz = 600
 set gyro_lpf1_dyn_min_hz = 90
 set gyro_lpf1_dyn_max_hz = 220
 set gyro_lpf1_dyn_expo = 5
+set gyro_notch1_hz = 50
+set gyro_notch1_cutoff = 0
 
 set tpa_mode = PD
 set tpa_rate = 45
