@@ -10,7 +10,7 @@ Instinct Cibermatic tune is more responsive on the sticks and a little cleaner t
 
 smooth and responsive is "slightly twitchy" more twitchy then the previous and uses some of fero pang tune stats,
 
-and the ferocious has high FF and generates alot of power to the motors, ferocious Pangangue had alot to do with this as i liked his aggressive sbnag style.
+and the ferocious has high FF and generates alot of power to the motors, (ferocious Pangangue fpv) has spent alot of time on this as i liked his aggressive sbang style. He gave it the spice!!!
 
 enjoy
 
