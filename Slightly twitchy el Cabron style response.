@@ -61,13 +61,14 @@ set yaw_deadband = 3
 set rc_smoothing = ON
 set rc_smoothing_auto_factor = 80
 
-set dyn_notch_count = 2
+set dyn_notch_count = 4
 set dyn_notch_q = 450
 set dyn_notch_min_hz = 60
 set dyn_notch_max_hz = 600
-set gyro_lpf1_dyn_min_hz = 90
+set gyro_lpf1_dyn_min_hz = 60
 set gyro_lpf1_dyn_max_hz = 220
 set gyro_lpf1_dyn_expo = 5
+set gyro_lpf1_type = BIQUAD
 
 set tpa_mode = PD
 set tpa_rate = 45
