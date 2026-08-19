@@ -18,6 +18,8 @@ set d_max_gain = 45
 set d_max_advance = 36
 
 set motor_output_limit = 95
+set thr_mid = 16
+set thr_expo = 45
 
 set iterm_rotation = ON
 set iterm_relax = RP
