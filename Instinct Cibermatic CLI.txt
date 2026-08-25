@@ -14,7 +14,7 @@ set d_yaw = 0
 set f_yaw = 60
 set dshot_idle_value = 700
 
-set d_max_gain = 42
+set d_max_gain = 41
 set d_max_advance = 40
 
 set motor_output_limit = 95
