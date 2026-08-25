@@ -4,7 +4,7 @@ set d_pitch = 40
 set d_min_pitch = 40
 set f_pitch = 65
 set p_roll = 46
-set i_roll = 105
+set i_roll = 125
 set d_roll = 40
 set d_min_roll = 40
 set f_roll = 65
@@ -18,7 +18,7 @@ set gyro_notch1_hz = 50
 set gyro_notch1_cutoff = 0
 
 set d_max_gain = 46
-set d_max_advance = 38
+set d_max_advance = 40
 
 set motor_output_limit = 92
 
@@ -69,7 +69,7 @@ set dyn_notch_count = 4
 set gyro_lpf1_type = BIQUAD
 set dyn_notch_q = 450
 set dyn_notch_min_hz = 60
-set gyro_lpf1_dyn_min_hz = 75
+set gyro_lpf1_dyn_min_hz = 90
 set gyro_lpf1_dyn_max_hz = 220
 
 set tpa_mode = PD
