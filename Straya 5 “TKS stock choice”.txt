@@ -17,7 +17,7 @@ set dshot_idle_value = 700
 set gyro_notch1_hz = 50
 set gyro_notch1_cutoff = 0
 
-set d_max_gain = 46
+set d_max_gain = 41
 set d_max_advance = 40
 
 set motor_output_limit = 92
