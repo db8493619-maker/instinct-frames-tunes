@@ -1,9 +1,9 @@
-set p_pitch = 46
+set p_pitch = 44
 set i_pitch = 125
 set d_pitch = 40
 set d_min_pitch = 40
 set f_pitch = 60
-set p_roll = 46
+set p_roll = 45
 set i_roll = 145
 set d_roll = 40
 set d_min_roll = 40
@@ -59,7 +59,7 @@ set rpm_filter_lpf_hz = 150
 set deadband = 3
 set yaw_deadband = 3
 set rc_smoothing = ON
-set rc_smoothing_auto_factor = 130
+set rc_smoothing_auto_factor = 30
 
 set gyro_lpf2_static_hz = 0
 set dyn_notch_count = 4
