@@ -10,7 +10,7 @@ Instinct Cibermatic tune is more responsive on the sticks and a little cleaner t
 
 and the ferocious has high FF and generates alot of power to the motors, (ferocious Pangangue fpv) has spent alot of time on this as i liked his aggressive sbang style. He gave it the spice!!!
 
-!!!!! make sure to check the lpf2 on gyro and d term are off, yaw filter is off on d. and also that the d term in pids is matched like 40/40 or 38/38 there is no dmax used in these tunes!!!!!
+!!!!! make sure to check the lpf2 on gyro and d term are off, yaw filter is off on d. and also that the d term in pids is matched like 40/40 or 38/38 there is no dmax used in these tunes!!!!! ## type save and enter if errors appear, ignore the red
 
 enjoy
 
